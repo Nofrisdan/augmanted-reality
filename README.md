@@ -18,4 +18,5 @@ git clone https://github.com/Nofrisdan/augmanted-reality.git
 
 # Hasil 
 
-<video src="videos/dokumentasi.mp4" width=500 autoplay>
+https://user-images.githubusercontent.com/71428026/227774619-9d68e3e9-927d-4091-bdf1-52d9ea117f0a.mp4
+
