@@ -17,4 +17,5 @@ git clone https://github.com/Nofrisdan/augmanted-reality.git
 <img src="aqua.png"/>
 
 # Hasil 
-<video src="videos/dokumentasi.mp4"/>
+
+<video src="videos/dokumentasi.mp4" width=500 autoplay>
