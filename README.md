@@ -2,6 +2,13 @@
 `Augmented Reality` atau AR  adalah teknologi yang memperoleh penggabungan secara real-time terhadap digital konten yang dibuat oleh komputer dengan dunia nyata. 
 Augmented Reality memperbolehkan pengguna melihat objek maya 2D atau 3D yang diproyeksikan terhadap dunia nyata.
 
+# Uji coba
+Untuk dapat melakukan uji coba aplikasi silahkan akses link berikut ini :
+```
+https://nofrisdan.github.io/augmanted-reality/
+
+```
+
 # Instalasi dan cara menjalankan
 1. Silahkan clone repositori github :
 
@@ -15,6 +22,7 @@ git clone https://github.com/Nofrisdan/augmanted-reality.git
 3. Silahkan arahkan kamera anda ke gambar dibawah ini :
 
 <img src="aqua.png"/>
+
 
 # Hasil 
 
